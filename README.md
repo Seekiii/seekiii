@@ -1,9 +1,1 @@
-![GitHub metrics](https://metrics.lecoq.io/seekiii)  
-
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=seekiii&show_icons=true)  -->
-
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seekiii) --> 
-
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=seekiii)   -->
-
-<!--![Profile views](https://gpvc.arturio.dev/seekiii)  -->
+![Metrics](https://metrics.lecoq.io/seekiii?template=classic&base.indepth=true&base.hireable=true&base.metadata=0&people=1&achievements=1&base.indepth=true&base.hireable=true&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FSarajevo&config.display=large&config.padding=0%2C%208%20%2B%2020%25)
