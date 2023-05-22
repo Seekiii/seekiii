@@ -3,7 +3,7 @@
 
 ## Welcome to my GitHub profile! 🌟
 
-I'm Šeki, a passionate web designer and developer. Here you'll find various projects and contributions related to web design, programming, and artificial intelligence.
+I'm Šeki, a web designer and developer. Here you'll find various projects and contributions related to web design, programming, and artificial intelligence.
 
 ## About Me 🙋‍♂️
 
