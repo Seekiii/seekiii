@@ -1,5 +1,3 @@
-# Hello there! 👋
-
 [![GitHub followers](https://img.shields.io/github/followers/seekiii?style=social)](https://github.com/seekiii)
 [![GitHub stars](https://img.shields.io/github/stars/seekiii?style=social)](https://github.com/seekiii)
 
@@ -15,14 +13,6 @@ I'm Šeki, a passionate web designer and developer. Here you'll find various pro
 - ⚙️ jQuery, Node.js
 - 🤖 Discord Bots, Webscraping
 - 🌱 Exploring and learning Artificial Intelligence
-
-## GitHub Statistics 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seekiii&show_icons=true&theme=radical)
-
-## Most Used Programming Languages 💻
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seekiii&layout=compact&theme=radical)
 
 ## Get in Touch 📫
 
