@@ -1,6 +1,33 @@
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15145360)
- 
- 
+# Hello there! 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/seekiii?style=social)](https://github.com/seekiii)
+[![GitHub stars](https://img.shields.io/github/stars/seekiii?style=social)](https://github.com/seekiii)
+
+## Welcome to my GitHub profile! 🌟
+
+I'm Šeki, a passionate web designer and developer. Here you'll find various projects and contributions related to web design, programming, and artificial intelligence.
+
+## About Me 🙋‍♂️
+
+- 🌐 Web Design and Development
+- 🐍 Python, Flask
+- 💻 HTML5, CSS3, JavaScript
+- ⚙️ jQuery, Node.js
+- 🤖 Discord Bots, Webscraping
+- 🌱 Exploring and learning Artificial Intelligence
+
+## GitHub Statistics 📊
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seekiii&show_icons=true&theme=radical)
+
+## Most Used Programming Languages 💻
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seekiii&layout=compact&theme=radical)
+
+## Get in Touch 📫
+
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me through the following channels:
+
+- Email: [seekii.official@gmail.com](mailto:seekii.official@gmail.com)
+
+Thank you for visiting my GitHub profile! I look forward to sharing knowledge and collaborating with others.
