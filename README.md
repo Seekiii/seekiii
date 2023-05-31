@@ -1,6 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/seekiii?style=social)](https://github.com/seekiii)
 [![GitHub stars](https://img.shields.io/github/stars/seekiii?style=social)](https://github.com/seekiii)
- 
+  
 ## Welcome to my GitHub profile! 🌟
 
 I'm Šeki, a web designer and developer. Here you'll find various projects and contributions related to web design, programming, and artificial intelligence.
