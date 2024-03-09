@@ -18,6 +18,7 @@ I'm Šeki, a web designer and developer. Here you'll find various projects and c
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out to me through the following channels:
 
+- Portfolio: [https://seekiii.github.io/](https://seekiii.github.io) 
 - Email: [seekii.official@gmail.com](mailto:seekii.official@gmail.com)
 
 Thank you for visiting my GitHub profile! I look forward to sharing knowledge and collaborating with others.
